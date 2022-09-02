@@ -29,6 +29,6 @@ body {
     transition: 4s ease;
 }
 
-.square:hover{
+.square:hover {
     transition-duration: 0s;
 }
